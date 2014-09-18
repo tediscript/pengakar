@@ -1,0 +1,4 @@
+pengakar
+========
+
+Stemmer Bahasa Indonesia
